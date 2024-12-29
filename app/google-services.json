@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "693819219190",
+    "project_id": "akp-physics",
+    "storage_bucket": "akp-physics.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:693819219190:android:b9cbd9a6b8ed7d5355e0d7",
+        "android_client_info": {
+          "package_name": "com.example.akpphysics"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChGjo7_ndj8Cfg1s0z0rxQywtRc5a1F0A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
